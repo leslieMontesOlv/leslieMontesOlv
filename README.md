@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<!--
+hola yo soy leslie
+estudio en un curso de fundamentos de programcion web
 **leslieMontesOlv/leslieMontesOlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
